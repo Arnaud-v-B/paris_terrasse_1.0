@@ -1,0 +1,8 @@
+.env
+.history
+.python-version
+*.GEOJSON
+*.json
+*.geojson
+__pycache__
+*.heightmap

@@ -1,0 +1,17 @@
+pandas
+numpy
+matplotlib
+matplotlib-inline
+regex
+requests
+seaborn
+fastapi
+prefect
+direnv
+datetime
+Pillow
+argparse
+numpy
+pyproj
+osm2geojson
+overpass
